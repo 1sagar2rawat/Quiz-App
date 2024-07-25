@@ -6,7 +6,7 @@
     "name": "Sagar Rawat",
     "url": "https://1sagar2rawat.github.io"
   },
-  "homepage": "https://1sagar2rawat.github.io/Quiz-App/",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
